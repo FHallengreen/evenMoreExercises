@@ -1,0 +1,4 @@
+Name: Højtaler, Duration: 1000, Loudness: 100 Db
+Name: Headset, Duration: 1000, Loudness: 100 Db
+Name: Tv, Duration: 10000, aspectRatio: 16:4
+Name: Skærm, Duration: 1000, aspectRatio: 4:3
